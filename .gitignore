@@ -3,3 +3,4 @@ datasets
 .lintr
 07_deep_learning/21_cnn/dataset
 *.R
+07_deep_learning/21_cnn/cnn_new.ipynb
